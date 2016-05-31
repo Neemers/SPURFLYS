@@ -8,4 +8,4 @@ Instead of modifying this repository, you can fork the repository and modify it 
 
 When you commit, please make it clear of what you are changing, it makes it easier for everyone in the long run. Especially you, if something doesn’t work it makes it easier to backtrack.
 
-Please squash your commits to make it easier to read :D
+Please squash your commits, when needed, to make it easier to backtrack.
